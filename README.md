@@ -25,6 +25,7 @@ Slika za pomoč:
 Link na katerem se lahko preveri, če backend API-ji delajo: http://127.0.0.1:8000/docs, če dela bi moralo izgledati takole:
 ![image](https://user-images.githubusercontent.com/71169333/172925387-a4aecd01-b0dc-4c65-b0f9-6a27a352fa0b.png)
 
+```
 /** Stard frontend **/
 open new shell
 cd frontend
