@@ -1,6 +1,11 @@
 # Seminraska za SP1
-## Opis
-Projekt je preprosta aplikacija za shranjevanje zapiskov angl. notes.
+Glavne komponente aplikacije
+```
+Database: HarperDB
+Backend: Python FastAPI
+Frontend: React
+```
+Projekt je preprosta spletna aplikacija za shranjevanje zapiskov angl. notes.
 Videz aplikacije:
 ![image](https://user-images.githubusercontent.com/71169333/172925337-0096aed1-c312-4708-ab4d-b5c600966642.png)
 
